@@ -78,6 +78,12 @@ lib/
 
 ---
 
+## 📁 Instalasi
+
+Install pakai app-release.apk untuk platform android.
+
+---
+
 ## 🗄 Database
 
 - Tabel utama: **expenses**
